@@ -145,8 +145,7 @@ body {
   float: right;
 }
 }
-</style>
-</head>
+
 <body>
 
 

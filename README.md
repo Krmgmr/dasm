@@ -41,16 +41,6 @@ body {margin:0;}
          <a href = "Contact Us.html"><font color="red"><strong><mark>CONTACT</font></strong></mark></a> | 
          <a href = "About us.html"><font color="red"><strong><mark>ABOUT</font></strong></mark></a>
      </div> 
-
-
-
-
-
-
-
-
-
-
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style> 
 input[type=text] {
@@ -73,11 +63,6 @@ input[type=text]:focus {
 </style>
 </head>
 <body>
-
-
-
-
-
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <style>
@@ -145,20 +130,14 @@ body {
   float: right;
 }
 }
-
+</style>
+</head>
 <body>
-
-
  <div class="search-container">
     <form action="/action_page.php">
       <input type="text" placeholder="Search.." name="search">
       <button type="submit">Submit</button>
     </form>
-
-
-
-
-
 <div class="topnav" id="myTopnav">
   <a href="Home.html" class="active">Home</a>
   <a href="https://www.google.com/search?q=odia+news&oq=odia+news&aqs=chrome..69i57j69i59l2j0l3.7120j0j7&sourceid=chrome&ie=UTF-8">News</a>
@@ -180,7 +159,6 @@ body {
 </div>
 <div style="padding-left:16px"
 </div>
-
 <script>
 function myFunction() {
     var x = document.getElementById("myTopnav");
@@ -191,11 +169,6 @@ function myFunction() {
     }
 }
 </script>
-
-
-
-
-
 
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
@@ -259,7 +232,7 @@ img {vertical-align: middle;}
 @media only screen and (max-width: 300px) {
   .text {font-size: 11px}
 }
-</style>
+
 </head>
 <body>
 
@@ -282,15 +255,11 @@ img {vertical-align: middle;}
   <img src="download (1).jpg" style="width:100%">
   <div class="text">Caption Three</div>
 </div>
-
-
-
 <div style="text-align:center">
   <span class="dot"></span> 
   <span class="dot"></span> 
   <span class="dot"></span> 
 </div>
-
 <script>
 var slideIndex = 0;
 showSlides();
@@ -308,15 +277,9 @@ function showSlides() {
     }
     slides[slideIndex-1].style.display = "block";  
     dots[slideIndex-1].className += " active";
-    setTimeout(showSlides, 5000); // Change image every 2 seconds
+    setTimeout(showSlides, 2000); // Change image every 2 seconds
 }
 </script>
-
-
 </body>
 </html> 
-
-
-
-
 

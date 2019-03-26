@@ -40,19 +40,10 @@ body {margin:0;}
 </div>
  
  <div id = "menu" align = "middle" >
-         <a href = "Home.html"><font color="red"><strong><mark>HOME</font></strong></mark></a> | 
-         <a href = "Contact Us.html"><font color="red"><strong><mark>CONTACT</font></strong></mark></a> | 
-         <a href = "About us.html"><font color="red"><strong><mark>ABOUT</font></strong></mark></a>
+         <a href = "Home.html"><fontcolor="red"><strong><mark>HOME</font></strong></mark></a> | 
+         <a href = "Contact Us.html"><fontcolor="red"><strong><mark>CONTACT</font></strong></mark></a> | 
+         <a href = "About us.html"><fontcolor="red"><strong><mark>ABOUT</font></strong></mark></a>
      </div> 
-
-
-
-
-
-
-
-
-
 
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style> 

@@ -1,21 +1,4 @@
-Skip to content
- 
-Search or jump to…
 
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@Krmgmr Sign out
-0
-0 0 Krmgmr/dasm
- Code  Issues 0  Pull requests 0  Projects 0  Insights  Settings
-dasm/Main.html
-@Krmgmr Krmgmr Add files via upload
-66ae3f5 11 minutes ago
-367 lines (276 sloc)  7.24 KB
-    
 <html>
 <body bgcolor="pink">
 <meta name="viewport" content="width=device-width, initial-scale=1">

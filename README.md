@@ -39,11 +39,7 @@ body {margin:0;}
   <a href="#"><i class="fa fa-trash"></i></a> 
 </div>
  
- <div id = "menu" align = "middle" >
-         <a href = "Home.html"><mark>HOME</mark></a> | 
-         <a href = "Contact Us.html"><mark>CONTACT</mark></a> | 
-         <a href = "About us.html"><mark>ABOUT</mark></a>
-     </div> 
+
 
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style> 

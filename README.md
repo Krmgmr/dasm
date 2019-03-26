@@ -1,15 +1,16 @@
-
 <html>
 <body bgcolor="pink">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <style>
 body {margin:0;}
+
 .icon-bar {
     width: 100%;
     background-color: #555;
     overflow: auto;
 }
+
 .icon-bar a {
     float: left;
     width: 20%;
@@ -19,9 +20,11 @@ body {margin:0;}
     color: white;
     font-size: 36px;
 }
+
 .icon-bar a:hover {
     background-color: #000;
 }
+
 .active {
     background-color: #4CAF50 !important;
 }
@@ -41,6 +44,16 @@ body {margin:0;}
          <a href = "Contact Us.html"><font color="red"><strong><mark>CONTACT</font></strong></mark></a> | 
          <a href = "About us.html"><font color="red"><strong><mark>ABOUT</font></strong></mark></a>
      </div> 
+
+
+
+
+
+
+
+
+
+
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style> 
 input[type=text] {
@@ -57,12 +70,18 @@ input[type=text] {
     -webkit-transition: width 0.4s ease-in-out;
     transition: width 0.4s ease-in-out;
 }
+
 input[type=text]:focus {
     width: 100%;
 }
 </style>
 </head>
 <body>
+
+
+
+
+
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <style>
@@ -70,8 +89,12 @@ body {
   margin: 0;
   font-family: Arial, Helvetica, sans-serif;
 }
+
+
+
 .topnav .search-container {
   float: right;
+
 }
 .topnav .search-container button {
   float: right;
@@ -83,10 +106,16 @@ body {
   border: none;
   cursor: pointer;
 }
+
+
+
+
+
 .topnav {
   overflow: hidden;
   background-color: #f409c9;
 }
+
 .topnav a {
   float: left;
   display: block;
@@ -96,17 +125,21 @@ body {
   text-decoration: none;
   font-size: 17px;
 }
+
 .topnav a:hover {
   background-color: #FFFF00;
   color: black;
 }
+
 .active {
   background-color: #FF0000;
   color: white;
 }
+
 .topnav .icon {
   display: none;
 }
+
 @media screen and (max-width: 600px) {
   .topnav a:not(:first-child) {display: none;}
   .topnav a.icon {
@@ -114,6 +147,7 @@ body {
     display: block;
   }
 }
+
 @media screen and (max-width: 600px) {
   .topnav.responsive {position: relative;}
   .topnav.responsive .icon {
@@ -129,15 +163,25 @@ body {
 .topnav-right {
   float: right;
 }
+
 }
+
+
 </style>
 </head>
 <body>
+
+
  <div class="search-container">
     <form action="/action_page.php">
       <input type="text" placeholder="Search.." name="search">
       <button type="submit">Submit</button>
     </form>
+
+
+
+
+
 <div class="topnav" id="myTopnav">
   <a href="Home.html" class="active">Home</a>
   <a href="https://www.google.com/search?q=odia+news&oq=odia+news&aqs=chrome..69i57j69i59l2j0l3.7120j0j7&sourceid=chrome&ie=UTF-8">News</a>
@@ -159,6 +203,7 @@ body {
 </div>
 <div style="padding-left:16px"
 </div>
+
 <script>
 function myFunction() {
     var x = document.getElementById("myTopnav");
@@ -170,18 +215,25 @@ function myFunction() {
 }
 </script>
 
+
+
+
+
+
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
 * {box-sizing: border-box;}
 body {font-family: Verdana, sans-serif;}
 .mySlides {display: none;}
 img {vertical-align: middle;}
+
 /* Slideshow container */
 .slideshow-container {
   max-width: 700px;
   position: relative;
   margin: auto;
 }
+
 /* Caption text */
 .text {
   color: #f2f2f2;
@@ -192,6 +244,7 @@ img {vertical-align: middle;}
   width: 100%;
   text-align: center;
 }
+
 /* Number text (1/3 etc) */
 .numbertext {
   color: #f2f2f2;
@@ -200,6 +253,7 @@ img {vertical-align: middle;}
   position: absolute;
   top: 0;
 }
+
 /* The dots/bullets/indicators */
 .dot {
   height: 15px;
@@ -210,9 +264,11 @@ img {vertical-align: middle;}
   display: inline-block;
   transition: background-color 0.6s ease;
 }
+
 .active {
   background-color: #717171;
 }
+
 /* Fading animation */
 .fade {
   -webkit-animation-name: fade;
@@ -220,19 +276,22 @@ img {vertical-align: middle;}
   animation-name: fade;
   animation-duration: 1.5s;
 }
+
 @-webkit-keyframes fade {
   from {opacity: .4} 
   to {opacity: 1}
 }
+
 @keyframes fade {
   from {opacity: .4} 
   to {opacity: 1}
 }
+
 /* On smaller screens, decrease text size */
 @media only screen and (max-width: 300px) {
   .text {font-size: 11px}
 }
-
+</style>
 </head>
 <body>
 
@@ -255,14 +314,19 @@ img {vertical-align: middle;}
   <img src="download (1).jpg" style="width:100%">
   <div class="text">Caption Three</div>
 </div>
+
+
+
 <div style="text-align:center">
   <span class="dot"></span> 
   <span class="dot"></span> 
   <span class="dot"></span> 
 </div>
+
 <script>
 var slideIndex = 0;
 showSlides();
+
 function showSlides() {
     var i;
     var slides = document.getElementsByClassName("mySlides");
@@ -277,9 +341,26 @@ function showSlides() {
     }
     slides[slideIndex-1].style.display = "block";  
     dots[slideIndex-1].className += " active";
-    setTimeout(showSlides, 2000); // Change image every 2 seconds
+    setTimeout(showSlides, 5000); // Change image every 2 seconds
 }
 </script>
+
+
 </body>
 </html> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 

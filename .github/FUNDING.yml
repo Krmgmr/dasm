@@ -1,6 +1,4 @@
 # These are supported funding model platforms
 
 github: [manoranjan.das2@wipro.com]
-patreon: octocat
-tidelift: npm/octo-package
-custom: ["https://paytm.com/", octocat.com]
+custom: ["https://paytm.com/"]
